@@ -1,3 +1,3 @@
 
 
-PLAsTiCC dataset \href{https://plasticc.org/}{plasticc.org}
+PLAsTiCC dataset https://plasticc.org/
